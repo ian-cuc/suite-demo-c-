@@ -1,0 +1,10 @@
+D:\Source\DingdingISV\Suite\bin\Suite.dll.config
+D:\Source\DingdingISV\Suite\bin\Suite.dll
+D:\Source\DingdingISV\Suite\bin\Suite.pdb
+D:\Source\DingdingISV\Suite\bin\Model.dll
+D:\Source\DingdingISV\Suite\bin\SubSonic.dll
+D:\Source\DingdingISV\Suite\bin\Model.pdb
+D:\Source\DingdingISV\Suite\obj\Release\Suite.csprojResolveAssemblyReference.cache
+D:\Source\DingdingISV\Suite\obj\Release\Suite.dll
+D:\Source\DingdingISV\Suite\obj\Release\Suite.pdb
+D:\Source\DingdingISV\Suite\bin\Newtonsoft.Json.dll

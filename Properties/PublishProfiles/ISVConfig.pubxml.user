@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Release\ISV</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Ajax/DingHandler.ashx">
+      <publishTime>09/10/2015 10:05:39</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>10/15/2015 13:58:47</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/24/2015 09:56:59</publishTime>
+    </File>
+    <File Include="bin/SubSonic.dll">
+      <publishTime>07/09/2015 10:03:52</publishTime>
+    </File>
+    <File Include="bin/Suite.dll">
+      <publishTime>10/15/2015 14:04:31</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/09/2015 14:58:22</publishTime>
+    </File>
+    <File Include="js/demo.js">
+      <publishTime>09/10/2015 10:55:03</publishTime>
+    </File>
+    <File Include="js/jquery-1.11.1.min.js">
+      <publishTime>09/10/2015 14:15:17</publishTime>
+    </File>
+    <File Include="js/logger.js">
+      <publishTime>09/10/2015 09:57:59</publishTime>
+    </File>
+    <File Include="js/zepto.min.js">
+      <publishTime>09/10/2015 09:58:36</publishTime>
+    </File>
+    <File Include="OAuth2Check.ashx">
+      <publishTime>09/10/2015 13:06:37</publishTime>
+    </File>
+    <File Include="receive.ashx">
+      <publishTime>10/15/2015 11:37:58</publishTime>
+    </File>
+    <File Include="Test.aspx">
+      <publishTime>09/09/2015 18:52:56</publishTime>
+    </File>
+    <File Include="Test.html">
+      <publishTime>09/10/2015 10:55:12</publishTime>
+    </File>
+    <File Include="UserCheck.aspx">
+      <publishTime>09/10/2015 14:16:59</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/15/2015 11:15:02</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
